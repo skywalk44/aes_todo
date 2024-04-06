@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_prim2_to_do_app_ikc_to_do">x_prim2_to_do_app_ikc_to_do</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>TODO</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>steven.kim</sys_created_by>
+        <sys_created_on>2024-04-06 06:19:54</sys_created_on>
+        <sys_id>f92c4b031b51421094c1fd131d4bcb48</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TODO</sys_name>
+        <sys_package display_value="To do app" source="x_prim2_to_do_app">280b07cf1b11421094c1fd131d4bcbba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To do app">280b07cf1b11421094c1fd131d4bcbba</sys_scope>
+        <sys_update_name>sys_number_f92c4b031b51421094c1fd131d4bcb48</sys_update_name>
+        <sys_updated_by>steven.kim</sys_updated_by>
+        <sys_updated_on>2024-04-06 06:19:54</sys_updated_on>
+    </sys_number>
+</record_update>
