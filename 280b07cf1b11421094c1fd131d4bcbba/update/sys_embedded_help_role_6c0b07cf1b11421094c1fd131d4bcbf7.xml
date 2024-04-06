@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_prim2_to_do_app.admin" name="x_prim2_to_do_app.admin">640b07cf1b11421094c1fd131d4bcbf5</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>steven.kim</sys_created_by>
+        <sys_created_on>2024-04-06 06:14:54</sys_created_on>
+        <sys_id>6c0b07cf1b11421094c1fd131d4bcbf7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>640b07cf1b11421094c1fd131d4bcbf5</sys_name>
+        <sys_package display_value="To do app" source="x_prim2_to_do_app">280b07cf1b11421094c1fd131d4bcbba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To do app">280b07cf1b11421094c1fd131d4bcbba</sys_scope>
+        <sys_update_name>sys_embedded_help_role_6c0b07cf1b11421094c1fd131d4bcbf7</sys_update_name>
+        <sys_updated_by>steven.kim</sys_updated_by>
+        <sys_updated_on>2024-04-06 06:14:54</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

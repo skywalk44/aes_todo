@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e52c4b031b51421094c1fd131d4bcb1c" label="IKC TO DO" max_length="40" name="x_prim2_to_do_app_ikc_to_do" type="collection">
+        <element label="Description" mandatory="true" max_length="40" name="description" type="string"/>
+        <element label="Due date" max_length="40" name="due_date" type="due_date"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="3" label="Priority" mandatory="true" max_length="40" name="priority" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="높음" sequence="0" value="high"/>
+                <element inactive_on_update="false" label="중간" sequence="1" value="midium"/>
+                <element inactive_on_update="false" label="낮음" sequence="2" value="low"/>
+            </choice>
+        </element>
+    </element>
+</database>
